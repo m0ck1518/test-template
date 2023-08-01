@@ -6,6 +6,6 @@ I am a UTSA student currently majoring in Computer Science.
 </div>
 <p> </p>
 <div id="badges">
-  <a href="www.linkedin.com/in/christian-crawford1/">
+  <a href="https://www.linkedin.com/in/christian-crawford1/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </div>
